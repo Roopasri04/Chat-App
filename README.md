@@ -41,13 +41,13 @@ chat-app/
 ## Screenshots
 
 ### Login Screen
-![Login](https://raw.githubusercontent.com/Roopasri04/Chat-App/main/screenshots/login.png)
+![Login](https://raw.githubusercontent.com/Roopasri04/Chat-App/main/login.png)
 
 ### Chat 1
-![Chat1](https://raw.githubusercontent.com/Roopasri04/Chat-App/main/screenshots/user1_chat.png)
+![Chat1](https://raw.githubusercontent.com/Roopasri04/Chat-App/main/user1_chat.png)
 
 ### Chat 2
-![Chat2](https://raw.githubusercontent.com/Roopasri04/Chat-App/main/screenshots/user2_chat.png)
+![Chat2](https://raw.githubusercontent.com/Roopasri04/Chat-App/main/user2_chat.png)
 
 ## How to Run (in VS Code)
 
