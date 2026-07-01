@@ -20,18 +20,35 @@ chat-app/
 ├── backend/
 │   ├── server.js
 │   └── package.json
-└── frontend/
-    ├── index.html
-    ├── vite.config.js
-    ├── package.json
-    └── src/
-        ├── main.jsx
-        ├── App.jsx
-        ├── Login.jsx
-        ├── Chat.jsx
-        ├── socket.js
-        └── index.css
+├── frontend/
+│   ├── index.html
+│   ├── vite.config.js
+│   ├── package.json
+│   └── src/
+│       ├── main.jsx
+│       ├── App.jsx
+│       ├── Login.jsx
+│       ├── Chat.jsx
+│       ├── socket.js
+│       └── index.css
+├── screenshots/
+│   ├── login.png
+│   ├── user1_chat.png
+│   ├── user2_chat.png
+└── README.md
 ```
+
+## Screenshots
+
+### Login Screen
+![Login Screen](./screenshots/login.png)
+
+### Chat1 Interface
+![Chat Interface](./screenshots/user1_chat.png)
+
+### Chat2 Indicator
+![Chat Interface](./screenshots/user2_chat.png)
+
 
 ## How to Run (in VS Code)
 
@@ -42,6 +59,7 @@ cd backend
 npm install
 npm start
 ```
+
 This starts the server at **http://localhost:5000**.
 
 ### 2. Frontend
@@ -51,6 +69,7 @@ cd frontend
 npm install
 npm run dev
 ```
+
 This starts the React app at **http://localhost:3000**.
 
 ### 3. Try it out
