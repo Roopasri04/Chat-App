@@ -41,14 +41,13 @@ chat-app/
 ## Screenshots
 
 ### Login Screen
-![Login Screen](./screenshots/login.png)
+![Login](https://raw.githubusercontent.com/Roopasri04/Chat-App/main/screenshots/login.png)
 
-### Chat1 Interface
-![Chat Interface](./screenshots/user1_chat.png)
+### Chat 1
+![Chat1](https://raw.githubusercontent.com/Roopasri04/Chat-App/main/screenshots/user1_chat.png)
 
-### Chat2 Indicator
-![Chat Interface](./screenshots/user2_chat.png)
-
+### Chat 2
+![Chat2](https://raw.githubusercontent.com/Roopasri04/Chat-App/main/screenshots/user2_chat.png)
 
 ## How to Run (in VS Code)
 
